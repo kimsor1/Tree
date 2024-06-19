@@ -1,4 +1,4 @@
-> # 기웃기웃 (Swift App Project)
+> # 트리 (Flutter App Project)
 
 <br>
 
